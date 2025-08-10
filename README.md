@@ -1,4 +1,4 @@
 # Project1
 This my first git Repository.
 <br>
-Author - Swastika kumari
+Author - Swastika(My first project)
